@@ -162,15 +162,4 @@ SCAN_RANGES = [
 - Revisa que el puerto `5000` este libre.
 - Ejecuta desde el directorio donde se encuentra `app.py`.
 
-## Recomendaciones de mejora
-
-- Extraer configuracion a variables de entorno o archivo `.env`.
-- Separar frontend en plantillas (`templates/`) y assets (`static/`).
-- Agregar logging estructurado y manejo de errores mas detallado.
-- Incorporar pruebas unitarias para parser SNMP y endpoints.
-- Agregar `requirements.txt` para instalacion reproducible.
-
-## Licencia
-
-Define aqui la licencia del proyecto (por ejemplo: MIT, Apache-2.0, uso interno, etc.).
 
